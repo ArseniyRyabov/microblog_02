@@ -1,6 +1,6 @@
-# Single page Website
+# Microblog
 
-This single page adaptive website with cross-browser compatibility. The site is overloaded with small details and is quite complex. Interesting css and js solutions have been applied. jQuery is not used. You can use these solutions to solve your problems. 
+This single page adaptive blog with cross-browser compatibility.
 
 ## Technical details
 
